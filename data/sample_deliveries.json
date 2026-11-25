@@ -1,0 +1,9 @@
+{
+  "depot": "Depot",
+  "deliveries": [
+    "Market",
+    "Clinic",
+    "Library",
+    "Warehouse"
+  ]
+}

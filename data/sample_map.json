@@ -1,0 +1,20 @@
+{
+  "locations": [
+    "Depot",
+    "Market",
+    "School",
+    "Clinic",
+    "Library",
+    "Warehouse"
+  ],
+  "roads": [
+    ["Depot", "Market", 4],
+    ["Depot", "School", 6],
+    ["Market", "Clinic", 3],
+    ["School", "Clinic", 2],
+    ["Market", "Library", 5],
+    ["Clinic", "Library", 4],
+    ["Library", "Warehouse", 3],
+    ["School", "Warehouse", 8]
+  ]
+}
